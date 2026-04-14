@@ -7,6 +7,7 @@ After [`tradclaw/BOOTSTRAP.md`](../tradclaw/BOOTSTRAP.md) and [`tradclaw/module-
 | Skill | Typical use |
 |-------|----------------|
 | `book-inventory` | Track owned books and wishlists |
+| `calendar-briefs` | Morning, afternoon pickup, and weekend calendar briefs |
 | `custom-stories` | Bedtime / personalized stories |
 | `helper-payments` | Recurring cleaner, sitter, etc. |
 | `home-maintenance` | Filters, seasonal resets, schedules |
